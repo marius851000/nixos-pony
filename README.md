@@ -34,3 +34,7 @@ let
         theme = "nixos-pony";
     };
 }
+```
+
+# license
+CC-BY 4.0 Marius DAVID based on a work by [ChibaDeer](https://twitter.com/Chiba_Deer)
