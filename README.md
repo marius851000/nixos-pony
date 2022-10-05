@@ -1,5 +1,5 @@
 # nixos-pony
-A plymouth bootup animation, based on [https://derpibooru.org/images/2565596?q=oc%3Anixos](this) drawing by ChibaDeer.
+A plymouth bootup animation, based on [this](https://derpibooru.org/images/2565596?q=oc%3Anixos) drawing by ChibaDeer.
 
 If you want to set the background of Grub and the connection manager, 
 # Installation on distro that use FHS (a.k.a not NixOS or GuixSD)
@@ -22,7 +22,7 @@ Put that in your system config (reformating accordingly. Should make an flake ov
 
 You can also set the grub background and SDDM background, but that’s surprisingly complicated (especially SDDM).
 
-You take a look [framagit.org/marius851000/nix-home-config](for an example). It should be somewhere in here...
+You take a look at [here](framagit.org/marius851000/nix-home-config) for an example. It should be somewhere in here...
 
 ```nix
 let
