@@ -4,5 +4,5 @@ Description=This is a plymouth theme which simply displays an image
 ModuleName=script
 
 [script]
-ImageDir=/etc/plymouth/themes/nixos-pony/
-ScriptFile=/etc/plymouth/themes/nixos-pony/script.script
+ImageDir=/usr/share/plymouth/themes/nixos-pony/
+ScriptFile=/usr/share/plymouth/themes/nixos-pony/script.script
